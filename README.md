@@ -40,5 +40,7 @@ printf("a senha esta correta vamos continuar com seu cadastro \n");
 
 printf("erro a senha esta incorreta \n");
 }
-	return 0;
+	
+ return 0;
+ 
  }
